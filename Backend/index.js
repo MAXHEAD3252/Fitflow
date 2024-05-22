@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken')
 // const session = require('express-session');
 // const passport = require('passport');
 
-const url ="mongodb+srv://akshat3252:akshatJoshi@maxhead.echatnd.mongodb.net/Users?retryWrites=true&w=majority";
+const url ="";
 
 const app = express();
 app.use(express.json());
