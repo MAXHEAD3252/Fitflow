@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+body::-webkit-scrollbar {
+  display: none; /* to hide the scrollbar*/
+}

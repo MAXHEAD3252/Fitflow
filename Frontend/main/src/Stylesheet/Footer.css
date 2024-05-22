@@ -1,0 +1,92 @@
+.last{
+    height: 50Vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: rgb(36, 32, 32); */
+    background-color: rgb(51, 83, 120);
+    color: white;
+}
+
+.last .title{
+    display: flex;
+    flex-direction: column;
+}
+
+.last .title h1{
+    margin-bottom: 5vh;
+}
+
+.last .title p{
+margin-bottom: 5vh;
+}
+
+.last .title .icons{
+    width: 30vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.last .about h1{
+    margin-bottom: 5vh;
+}
+
+.last .about li{
+    cursor: pointer;
+    list-style: none;
+    line-height: 30px;
+}
+.last .about li:hover{
+    opacity: 0.5;
+}
+
+.last .services h1{
+    margin-bottom: 5vh;
+}
+
+.last .services li{
+    cursor: pointer;
+    list-style: none;
+    line-height: 30px;
+}
+.last .services li:hover{
+    opacity: 0.5;
+}
+
+.last .other h1{
+    margin-bottom: 12vh;
+}
+
+.last .other li{
+    cursor: pointer;
+    line-height: 2rem;
+    list-style: none;
+}
+.last .other li:hover{
+    opacity: 0.5;
+}
+
+.footer{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: rgb(36, 32, 32); */
+    background-color: rgb(51, 83, 120);
+}
+
+.cp{
+    font-size: 1rem;
+    color: rgb(179, 179, 179);
+    margin: 40px;
+  }
+
+  .last .title .icons img{
+    transition: 0.3s ease-in-out;
+  }
+  .last .title .icons img:hover{
+    transform: rotate(60deg);
+  }

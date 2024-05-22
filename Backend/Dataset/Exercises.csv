@@ -1,0 +1,386 @@
+BodyPart,Exercise,Level
+Chest,Push-ups,Beginner
+Chest,Chest Fly,Beginner
+Chest,Incline Push-ups,Beginner
+Chest,Bench Dips,Beginner
+Chest,Wall Push-ups,Beginner
+Chest,Kneeling Push-ups,Beginner
+Chest,Incline Push-up on Knees,Beginner
+Chest,Dumbbell Floor Press,Beginner
+Chest,Chest Press Machine,Beginner
+Chest,Resistance Band Chest Press,Beginner
+Chest,Standing Chest Fly,Beginner
+Chest,Decline Push-ups,Beginner
+Chest,Incline Chest Fly,Beginner
+Chest,Isometric Chest Squeeze,Beginner
+Chest,Single-Arm Wall Press,Beginner
+Chest,Dumbbell Bench Press,Medium
+Chest,Dumbbell Fly,Medium
+Chest,Cable Crossover,Medium
+Chest,Incline Dumbbell Press,Medium
+Chest,Pec Deck Machine,Medium
+Chest,Smith Machine Press,Medium
+Chest,Landmine Press,Medium
+Chest,Push-up Variations,Medium
+Chest,Decline Dumbbell Press,Medium
+Chest,Close-Grip Bench Press,Medium
+Chest,Dips,Medium
+Chest,Alternating Dumbbell Bench Press,Medium
+Chest,Swiss Ball Chest Press,Medium
+Chest,Resistance Band Fly,Medium
+Chest,Single-Arm Dumbbell Press,Medium
+Chest,Barbell Bench Press,Advanced
+Chest,Incline Bench Press,Advanced
+Chest,Decline Bench Press,Advanced
+Chest,Chest Dips,Advanced
+Chest,Incline Dumbbell Fly,Advanced
+Chest,One-Arm Dumbbell Press,Advanced
+Chest,Resistance Band Press,Advanced
+Chest,Weighted Push-ups,Advanced
+Chest,Incline Cable Fly,Advanced
+Chest,Weighted Dips,Advanced
+Chest,Single-Arm Cable Press,Advanced
+Chest,Floor Press,Advanced
+Chest,Reverse Grip Bench Press,Advanced
+Chest,Decline Dumbbell Fly,Advanced
+Chest,Explosive Push-ups,Advanced
+,,
+Back,Superman,Beginner
+Back,Bird Dog,Beginner
+Back,Standing Back Extensions,Beginner
+Back,Wall Slides,Beginner
+Back,Cat-Cow Stretch,Beginner
+Back,Bridge,Beginner
+Back,Prone Cobra,Beginner
+Back,Seated Row,Beginner
+Back,Resistance Band Row,Beginner
+Back,Single-Arm Dumbbell Row,Beginner
+Back,Chest Supported Dumbbell Row,Beginner
+Back,Prone Y-T-W,Beginner
+Back,Good Mornings,Beginner
+Back,Dumbbell Deadlift,Beginner
+Back,Kneeling Lat Pulldown,Beginner
+Back,Seated Row,Medium
+Back,Lat Pulldown,Medium
+Back,One-Arm Dumbbell Row,Medium
+Back,T-Bar Row,Medium
+Back,Hyperextension,Medium
+Back,Lying T-Bar Row,Medium
+Back,Renegade Rows,Medium
+Back,Face Pull,Medium
+Back,Dumbbell Pullover,Medium
+Back,Wide Grip Lat Pulldown,Medium
+Back,Landmine Row,Medium
+Back,Cable Row,Medium
+Back,Bent Over Row,Medium
+Back,Reverse Fly,Medium
+Back,Chin-Up,Medium
+Back,Deadlift,Advanced
+Back,Pull-ups,Advanced
+Back,Barbell Row,Advanced
+Back,Dead Row,Advanced
+Back,Reverse Grip Pulldown,Advanced
+Back,Chin-ups,Advanced
+Back,Single-Arm Lat Pulldown,Advanced
+Back,Pendlay Row,Advanced
+Back,Deficit Deadlift,Advanced
+Back,Rack Pull,Advanced
+Back,Wide-Grip Pull-Ups,Advanced
+Back,Straight-Arm Pulldown,Advanced
+Back,Cable Deadlift,Advanced
+Back,Seal Row,Advanced
+Back,Muscle-Up,Advanced
+,,
+Shoulders,Arm Circles,Beginner
+Shoulders,Front Raises,Beginner
+Shoulders,Side Arm Raises,Beginner
+Shoulders,Shoulder Shrugs,Beginner
+Shoulders,Scapular Wall Slides,Beginner
+Shoulders,Seated Dumbbell Press,Beginner
+Shoulders,Band Pull-Aparts,Beginner
+Shoulders,Dumbbell Shoulder Press,Beginner
+Shoulders,Resistance Band Lateral Raises,Beginner
+Shoulders,Standing Dumbbell Press,Beginner
+Shoulders,Single-Arm Dumbbell Press,Beginner
+Shoulders,Reverse Fly,Beginner
+Shoulders,Scapular Push-Ups,Beginner
+Shoulders,Isometric Shoulder Hold,Beginner
+Shoulders,External Rotation,Beginner
+Shoulders,Dumbbell Shoulder Press,Medium
+Shoulders,Lateral Raises,Medium
+Shoulders,Rear Delt Fly,Medium
+Shoulders,Front Dumbbell Raise,Medium
+Shoulders,Upright Row,Medium
+Shoulders,Face Pulls,Medium
+Shoulders,External Rotation,Medium
+Shoulders,Arnold Press,Medium
+Shoulders,Single-Arm Arnold Press,Medium
+Shoulders,Dumbbell Lateral Raise,Medium
+Shoulders,Push Press,Medium
+Shoulders,Reverse Pec Deck,Medium
+Shoulders,Overhead Dumbbell Press,Medium
+Shoulders,Alternating Shoulder Press,Medium
+Shoulders,Handstand Shoulder Press,Medium
+Shoulders,Barbell Shoulder Press,Advanced
+Shoulders,Arnold Press,Advanced
+Shoulders,Push Press,Advanced
+Shoulders,Military Press,Advanced
+Shoulders,Overhead Press,Advanced
+Shoulders,Handstand Push-ups,Advanced
+Shoulders,One-Arm Overhead Press,Advanced
+Shoulders,Seated Barbell Press,Advanced
+Shoulders,Single-Arm Cable Lateral Raise,Advanced
+Shoulders,Incline Dumbbell Press,Advanced
+Shoulders,Landmine Press,Advanced
+Shoulders,Standing Military Press,Advanced
+Shoulders,Rear Delt Row,Advanced
+Shoulders,Bradford Press,Advanced
+Shoulders,Z Press,Advanced
+,,
+Legs,Bodyweight Squats,Beginner
+Legs,Walking Lunges,Beginner
+Legs,Calf Raises,Beginner
+Legs,Glute Bridge,Beginner
+Legs,Side Lunges,Beginner
+Legs,Wall Sit,Beginner
+Legs,Step-Ups,Beginner
+Legs,Dumbbell Squats,Beginner
+Legs,Standing Calf Raise,Beginner
+Legs,Seated Calf Raise,Beginner
+Legs,Resistance Band Squats,Beginner
+Legs,Reverse Lunges,Beginner
+Legs,Bulgarian Split Squat,Beginner
+Legs,Bodyweight Glute Bridge,Beginner
+Legs,Single-Leg Deadlift,Beginner
+Legs,Goblet Squats,Medium
+Legs,Leg Press,Medium
+Legs,Reverse Lunges,Medium
+Legs,Hamstring Curls,Medium
+Legs,Leg Extensions,Medium
+Legs,Single-Leg Deadlift,Medium
+Legs,Sumo Squat,Medium
+Legs,Lateral Lunges,Medium
+Legs,Walking Lunges with Dumbbells,Medium
+Legs,Step-Ups with Dumbbells,Medium
+Legs,Stiff-Leg Deadlift,Medium
+Legs,Swiss Ball Leg Curl,Medium
+Legs,Barbell Hip Thrust,Medium
+Legs,Single-Leg Squat,Medium
+Legs,Curtsy Lunge,Medium
+Legs,Barbell Squats,Advanced
+Legs,Bulgarian Split Squat,Advanced
+Legs,Deadlifts,Advanced
+Legs,Romanian Deadlifts,Advanced
+Legs,Front Squats,Advanced
+Legs,Hack Squat,Advanced
+Legs,Barbell Lunges,Advanced
+Legs,Pistol Squats,
+Legs,Pistol Squats,Advanced
+Legs,Squat Jumps,Advanced
+Legs,Overhead Squats,Advanced
+Legs,Barbell Step-Ups,Advanced
+Legs,Single-Leg Press,Advanced
+Legs,Barbell Good Mornings,Advanced
+Legs,Box Squats,Advanced
+Legs,Power Cleans,Advanced
+Legs,Barbell Calf Raises,Advanced
+Legs,Depth Jumps,Advanced
+,,
+Biceps,Bicep Curls,Beginner
+Biceps,Reverse Curls,Beginner
+Biceps,Resistance Band Curls,Beginner
+Biceps,Chin-Up Hold,Beginner
+Biceps,Isometric Curl,Beginner
+Biceps,Seated Dumbbell Curl,Beginner
+Biceps,Alternating Dumbbell Curl,Beginner
+Biceps,Concentration Curls,Beginner
+Biceps,Hammer Curls,Beginner
+Biceps,Wide-Grip Curls,Beginner
+Biceps,Resistance Band Hammer Curls,Beginner
+Biceps,Seated Alternating Curls,Beginner
+Biceps,Spider Curls,Beginner
+Biceps,Drag Curls,Beginner
+Biceps,Incline Dumbbell Curls,Beginner
+Biceps,Hammer Curls,Medium
+Biceps,Preacher Curls,Medium
+Biceps,Incline Dumbbell Curls,Medium
+Biceps,Cable Hammer Curl,Medium
+Biceps,Close-Grip Curl,Medium
+Biceps,Drag Curls,Medium
+Biceps,Machine Curl,Medium
+Biceps,Cable Curl,Medium
+Biceps,Concentration Curl,Medium
+Biceps,Barbell Curl,Medium
+Biceps,Reverse Barbell Curl,Medium
+Biceps,Zottman Curl,Medium
+Biceps,Single-Arm Preacher Curl,Medium
+Biceps,Alternating Dumbbell Curl,Medium
+Biceps,Standing Cable Curl,Medium
+Biceps,Concentration Curls,Advanced
+Biceps,Spider Curls,Advanced
+Biceps,Cable Curls,Advanced
+Biceps,21s,Advanced
+Biceps,Reverse-Grip Curl,Advanced
+Biceps,Barbell Curl,Advanced
+Biceps,Zottman Curl,Advanced
+Biceps,Incline Inner-Biceps Curl,Advanced
+Biceps,Single-Arm Cable Curl,Advanced
+Biceps,High Cable Curl,Advanced
+Biceps,Double Cable Curl,Advanced
+Biceps,Rope Hammer Curl,Advanced
+Biceps,Overhead Cable Curl,Advanced
+Biceps,Single-Arm Preacher Curl,Advanced
+Biceps,Wide-Grip Barbell Curl,Advanced
+,,
+Triceps,Tricep Dips,Beginner
+Triceps,Overhead Tricep Extension,Beginner
+Triceps,Resistance Band Pushdown,Beginner
+Triceps,Diamond Push-Ups,Beginner
+Triceps,Chair Dips,Beginner
+Triceps,One-Arm Kickback,Beginner
+Triceps,Tricep Stretch,Beginner
+Triceps,Close-Grip Push-Ups,Beginner
+Triceps,Overhead Dumbbell Extension,Beginner
+Triceps,Bench Dip,Beginner
+Triceps,Standing Dumbbell Extension,Beginner
+Triceps,Resistance Band Tricep Kickback,Beginner
+Triceps,Single-Arm Overhead Extension,Beginner
+Triceps,Isometric Tricep Extension,Beginner
+Triceps,Bodyweight Tricep Extension,Beginner
+Triceps,Tricep Kickbacks,Medium
+Triceps,Close-Grip Bench Press,Medium
+Triceps,Dumbbell Tricep Extension,Medium
+Triceps,Tricep Pushdown,Medium
+Triceps,Rope Pushdown,Medium
+Triceps,Skull Crushers,Medium
+Triceps,Overhead Cable Extension,Medium
+Triceps,Single-Arm Cable Pushdown,Medium
+Triceps,Seated Tricep Press,Medium
+Triceps,Dips,Medium
+Triceps,Reverse-Grip Pushdown,Medium
+Triceps,Single-Arm Overhead Dumbbell Extension,Medium
+Triceps,One-Arm Kickback,Medium
+Triceps,Bench Dip with Weight,Medium
+Triceps,Tricep Press Machine,Medium
+Triceps,Skull Crushers,Advanced
+Triceps,Weighted Dips,Advanced
+Triceps,Cable Tricep Extension,Advanced
+Triceps,Reverse Grip Tricep Pushdown,Advanced
+Triceps,One-Arm Overhead Extension,Advanced
+Triceps,Machine Tricep Extension,Advanced
+Triceps,Bodyweight Skull Crushers,Advanced
+Triceps,Ring Dips,Advanced
+Triceps,Floor Press,Advanced
+Triceps,JM Press,Advanced
+Triceps,Close-Grip Floor Press,Advanced
+Triceps,Decline Skull Crushers,Advanced
+Triceps,Reverse Grip Bench Press,Advanced
+Triceps,Decline Close-Grip Bench Press,Advanced
+Triceps,Standing Overhead Press,Advanced
+,,
+Abs,Plank,Beginner
+Abs,Crunches,Beginner
+Abs,Bicycle Crunch,Beginner
+Abs,Flutter Kicks,Beginner
+Abs,Reverse Crunches,Beginner
+Abs,Bird Dog,Beginner
+Abs,Dead Bug,Beginner
+Abs,Leg Raises,Beginner
+Abs,Heel Touches,Beginner
+Abs,Mountain Climbers,Beginner
+Abs,Scissor Kicks,Beginner
+Abs,Toe Touches,Beginner
+Abs,Seated Knee Tucks,Beginner
+Abs,Side Plank,Beginner
+Abs,Russian Twists,Beginner
+Abs,Side Plank,Medium
+Abs,Leg Raises,Medium
+Abs,Mountain Climbers,Medium
+Abs,Scissor Kicks,Medium
+Abs,Toe Touches,Medium
+Abs,Boat Pose,Medium
+Abs,Medicine Ball Slam,Medium
+Abs,Standing Oblique Crunch,Medium
+Abs,Side Bends,Medium
+Abs,Hanging Leg Raise,Medium
+Abs,Ball Rollouts,Medium
+Abs,Standing Cable Crunch,Medium
+Abs,Cable Woodchopper,Medium
+Abs,Stability Ball Pass,Medium
+Abs,Single-Leg Stretch,Medium
+Abs,Russian Twists,Advanced
+Abs,Windshield Wipers,Advanced
+Abs,Dragon Flag,Advanced
+Abs,Weighted Sit-Ups,Advanced
+Abs,Ab Wheel Rollout,Advanced
+Abs,Medicine Ball Slam,Advanced
+Abs,Hanging Knee Raise,Advanced
+Abs,Cable Crunch,Advanced
+Abs,Weighted Russian Twists,Advanced
+Abs,Side Plank with Leg Raise,Advanced
+Abs,Decline Sit-Up,Advanced
+Abs,V-Ups,Advanced
+Abs,Standing Oblique Cable Crunch,Advanced
+Abs,Stability Ball Pikes,Advanced
+Abs,Hanging Windshield Wipers,Advanced
+,,
+Glutes,Glute Bridge,Beginner
+Glutes,Single-Leg Glute Bridge,Beginner
+Glutes,Donkey Kicks,Beginner
+Glutes,Fire Hydrants,Beginner
+Glutes,Clamshells,Beginner
+Glutes,Bodyweight Squats,Beginner
+Glutes,Side Leg Raises,Beginner
+Glutes,Standing Glute Squeeze,Beginner
+Glutes,Glute Bridge March,Beginner
+Glutes,Frog Pumps,Beginner
+Glutes,Squat to Glute Squeeze,Beginner
+Glutes,Step-Ups,Beginner
+Glutes,Reverse Leg Lift,Beginner
+Glutes,Bridge with Abduction,Beginner
+Glutes,Kneeling Squat,Beginner
+Glutes,Hip Thrust,Medium
+Glutes,Bulgarian Split Squat,Medium
+Glutes,Deadlift,Medium
+Glutes,Romanian Deadlift,Medium
+Glutes,Cable Kickbacks,Medium
+Glutes,Smith Machine Squats,Medium
+Glutes,Barbell Glute Bridge,Medium
+Glutes,Curtsy Lunge,Medium
+Glutes,Lateral Band Walk,Medium
+Glutes,Sumo Squat,Medium
+Glutes,Walking Lunges,Medium
+Glutes,Step-Ups with Dumbbells,Medium
+Glutes,Single-Leg Deadlift,Medium
+Glutes,Fire Hydrant with Band,Medium
+Glutes,Barbell Hip Thrust,Medium
+Glutes,Barbell Hip Thrust,Advanced
+Glutes,Deadlift,Advanced
+Glutes,Front Squat,Advanced
+Glutes,Single-Leg Hip Thrust,Advanced
+Glutes,Glute Bridge with Barbell,Advanced
+Glutes,Box Jumps,Advanced
+Glutes,Kettlebell Swing,Advanced
+Glutes,Barbell Glute Bridge,Advanced
+Glutes,Sprinter Lunges,Advanced
+Glutes,Weighted Curtsy Lunge,Advanced
+Glutes,Sumo Deadlift,Advanced
+Glutes,Frog Pump with Band,Advanced
+Glutes,Reverse Hypers,Advanced
+Glutes,Deficit Deadlift,Advanced
+Glutes,Barbell Step-Up,Advanced
+,,
+Forearms,Wrist Curls,Beginner
+Forearms,Reverse Wrist Curls,Beginner
+Forearms,Wrist Rotations,Beginner
+Forearms,Farmer's Walk,Beginner
+Forearms,Grip Squeeze,Beginner
+Forearms,Plate Pinch,Beginner
+Forearms,Bar Hang,Beginner
+Forearms,Dead Hangs,Beginner
+Forearms,Finger Push-Ups,Beginner
+Forearms,Hand Grippers,Beginner
+Forearms,Resistance Band Extensions,Beginner
+Forearms,Towel Twist,Beginner
+Forearms,Dumbbell Hold,Beginner
+Forearms,,

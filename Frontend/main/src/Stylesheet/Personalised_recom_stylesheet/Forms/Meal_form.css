@@ -1,0 +1,70 @@
+.mealmain{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('../../../Assets/Images/Personalised_recom/Meal-form.jpg');
+  background-size: cover;
+  color: rgb(51, 83, 120);
+}
+
+
+.mealform-container{
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  width: 70vh;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(51, 83, 120);
+}
+
+.Meal-welcome-text h1{
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.Meal-welcome-text p{
+  font-weight: 400;
+  margin-bottom: 1vh;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="number"],select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgb(51, 83, 120);
+  border-radius: 4px;
+  margin-bottom: 2vh;
+}
+
+.mealback,.submit {
+  background-color: rgb(51, 83, 120);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-right: 2vh;
+}
+
+.mealback:hover {
+  background-color: #0056b3;
+}
+.submit:hover {
+  background-color: #0056b3;
+}
+
+

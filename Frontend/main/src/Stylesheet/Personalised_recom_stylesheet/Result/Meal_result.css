@@ -1,0 +1,79 @@
+.main{
+height: 100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url('../../../Assets/Images/Personalised_recom/meal_result_img.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.main .display{
+height: 90%;
+width: 50%;
+background-color: white;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin: 10px;
+}
+
+.display p{
+    align-items: center;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.display .foodtitle{
+    font-size: 3rem ;
+    font-weight: 600;
+}
+.display .Food{
+    font-size: 2rem;
+    font-weight: 400;
+}
+.food-list {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.list-container {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 50%;
+    max-height: 60vh; /* Adjust this value according to your needs */
+    overflow-y: auto;
+    border-radius: 30px;
+    scrollbar-width: thin;
+}
+.main .back{
+    height: 8vh;
+    width: 8vh;
+    background-color: white;
+    position:fixed;
+    margin-bottom: 80vh;
+    margin-right: 190vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main .back img{
+    height: 7vh;
+    width: 7vh;
+}
+
+.food{
+    list-style:url('../../../Assets/Images/Icons/seedling-solid.svg');
+    text-align: center;
+    margin-left: 7vh;
+}
+

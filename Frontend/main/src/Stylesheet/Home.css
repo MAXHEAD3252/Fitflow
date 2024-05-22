@@ -1,0 +1,187 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  body::-webkit-scrollbar {
+    display: none; /* to hide the scrollbar*/
+  }
+  
+.video_bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+  
+  .logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    transition: 0.3s;
+  }
+  .logo:hover {
+    height: 110px;
+    width: 110px;
+    border-end-end-radius: 100%;
+  }
+  
+  nav {
+    position:fixed;
+    overflow: visible;
+    font-size: larger;
+    background-color: white;
+    margin-top: 5vh;
+    height: 7vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .image {
+    width: 10%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .list {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .list .nav_buttons {
+    margin-left: 10vh;
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .list .button1 {
+    height: 6vh;
+    width: 15vh;
+    border-top-left-radius: 50px;
+    font-size: 1.1rem;
+    color: white;
+    background-color: rgb(51, 83, 120);
+    border-color: transparent;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .list .button2 {
+    height: 6vh;
+    width: 15vh;
+    border-bottom-right-radius: 50px;
+    font-size: 1.1rem;
+    color: white;
+    border-color: transparent;
+    background-color: rgb(51, 83, 120);
+    transition: 0.3s ease-in-out;
+  }
+  
+  .list button:hover {
+    border-color: transparent;
+    border-radius: 0px;
+  }
+  
+  nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+    cursor: pointer;
+  }
+  .list li a{
+    color: black;
+    text-decoration: none;
+  }
+  
+  nav li::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background: rgb(51, 83, 120);
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+  }
+  
+  nav li:hover::after {
+    width: 100%;
+  }
+  
+  .section_main {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    flex-direction: column;
+    color: rgb(51, 83, 120);
+    font-size: 1.8rem;
+  }
+  
+  .section_main .slogan h1 {
+    font-weight: 800;
+    margin-left: 10vh;
+    margin-top: 50vh;
+  }
+  .section_main .slogan p {
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-left: 10vh;
+  }
+  .section_main .buttons {
+    width: 25%;
+    height: 20vh;
+    margin-bottom: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .section_main .buttons button {
+    height: 10vh;
+    width: 35vh;
+    font-size: 2rem;
+    color: white;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(51, 83, 120);
+    background-color: rgb(51, 83, 120);
+    transition: 0.5s;
+  }
+  
+  .section_main .buttons button:hover {
+    background-color: transparent;
+    border-color: aliceblue;
+    color: white;
+  }
+
+
+  .section_main .down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 210vh;
+    margin-top: 80vh;
+    position: fixed;
+    height: 3rem;
+    width: 3rem;
+    background-color: white;
+    border-radius: 100%;
+
+    img{
+      margin-top: 2vh;
+      height: 5rem;
+      width: 5rem;
+      transition: 0.3s ease-in-out;
+    }
+  }
+
+  
